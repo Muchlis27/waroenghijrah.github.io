@@ -1,0 +1,15 @@
+.navbar-brand img {
+  height: 100px;
+  width: auto;
+}
+hr {
+  width: auto;
+  color: white;
+}
+.jumbotron {
+  background-image: url(img/makanan.png);
+  background-size: cover;
+}
+.container1 img {
+  width: 30px;
+}
